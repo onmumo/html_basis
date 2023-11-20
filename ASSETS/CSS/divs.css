@@ -1,0 +1,40 @@
+.fruits{
+    border: 2px solid orange;
+    padding: 20px;
+    margin: 20px;
+    background-color: yellow;
+    text-align: center;
+    color: red;
+}
+.FRUITS{
+    border: 2px solid orange;
+    padding: 20px;
+    margin: 20px;
+    background-color: whitesmoke;
+    text-align: center;
+    color: rgb(236, 96, 15);
+}
+.cars{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align:center;
+    color: orange;
+    background-color: blanchedalmond;
+
+}
+.computers{
+    border: 2px solid whitesmoke;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(228, 228, 228);
+    background-color: rgb(105, 105, 216);
+
+}
+.laptops{
+    border: 2px solid orangered;
+}
+.desktops{
+    border: 2px dotted magenta;
+}

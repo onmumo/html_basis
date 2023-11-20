@@ -1,0 +1,21 @@
+th,td {
+    border:red 2px solid;
+    padding: 10px;
+
+
+}
+table{
+     border-collapse: collapse;
+     width: 100%;
+    
+}
+thead{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    color: darkorange;
+}
+h2{
+    font-size: 30 px;
+    color: maroon;
+    text-align: center;
+}
